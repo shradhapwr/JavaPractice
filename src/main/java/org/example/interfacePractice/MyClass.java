@@ -1,4 +1,4 @@
-package org.example;
+package org.example.interfacePractice;
 
 public class MyClass implements MyInterface {
 
@@ -20,5 +20,7 @@ public class MyClass implements MyInterface {
 
         // Call additional method
         myObject.anotherMethod();
+
+
     }
 }
