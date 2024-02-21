@@ -5,7 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fc88fe8-e66c-4706-a6bf-29147b9b2efb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newjavaPractice/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newjavaPractice/BreakNContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newjavaPractice/DataTypePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newjavaPractice/ForLoopPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newjavaPractice/IfStatementPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newjavaPractice/LinkedListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newjavaPractice/OperatorsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newjavaPractice/VariableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newjavaPractice/WhileLoopPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newjavaPractice/encapsulationExample/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newjavaPractice/inheritancePractice/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newjavaPractice/inheritancePractice/InheritanceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newjavaPractice/inheritancePractice/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newjavaPractice/polymorphismExample/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newjavaPractice/polymorphismExample/PolymorphismExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Beavarages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ExceptionHandlingPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumPractice/Dynamic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumPractice/ExplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumPractice/ImplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testNGPractice/TestExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sample.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/cucmberPractice/CucumberTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/cucmberPractice/SampleStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/feature/practice.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/cucumber.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Sample.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/junit-platform.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +52,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/seleniumPractice/Dynamic.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -47,23 +80,32 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mobikode/IdeaProjects/tokyo/src/test&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.example" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mobikode\IdeaProjects\tokyo\src\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mobikode\IdeaProjects\tokyo\src\test\resources\features" />
+      <recent name="C:\Users\Mobikode\IdeaProjects\tokyo\src\main\resources" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.MyClass">
-    <configuration name="Amazon1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Amazon1" />
+  <component name="RunManager" selected="Cucumber Java.Scenario: Open a website">
+    <configuration name="LinkedListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newjavaPractice.LinkedListExample" />
       <module name="tokyo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="newjavaPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +113,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoogleSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.GoogleSearch" />
+    <configuration name="Feature: Sample" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Sample.feature" />
+      <option name="GLUE" value="cucmberPractice" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="tokyo" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Sample" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +132,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaLoggerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.JavaLoggerExample" />
+    <configuration name="Scenario: Open a website (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/feature/practice.feature" />
+      <option name="GLUE" value="cucmberPractice" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="tokyo" />
+      <option name="NAME_FILTER" value="^Open a website$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Open a website$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Open a website" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +152,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.MyClass" />
+    <configuration name="Scenario: Open a website" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Sample.feature" />
+      <option name="GLUE" value="cucmberPractice" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="tokyo" />
+      <option name="NAME_FILTER" value="^Open a website$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Open a website$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Open a website" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,26 +172,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shra1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Shra1" />
+    <configuration name="CucumberTestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tokyo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="cucmberPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="cucmberPractice" />
+      <option name="MAIN_CLASS_NAME" value="cucmberPractice.CucumberTestRunner" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyClass" />
-        <item itemvalue="Application.GoogleSearch" />
-        <item itemvalue="Application.Amazon1" />
-        <item itemvalue="Application.Shra1" />
-        <item itemvalue="Application.JavaLoggerExample" />
+        <item itemvalue="Cucumber Java.Scenario: Open a website" />
+        <item itemvalue="Cucumber Java.Feature: Sample" />
+        <item itemvalue="JUnit.CucumberTestRunner" />
+        <item itemvalue="Cucumber Java.Scenario: Open a website (1)" />
+        <item itemvalue="Application.LinkedListExample" />
       </list>
     </recent_temporary>
   </component>
@@ -154,6 +218,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Employee.java</url>
           <line>28</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/cucmberPractice/SampleStepDefinitions.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
